@@ -11,6 +11,10 @@ You can either log in or register as a new user.
 
 > **Note**: Upon registering, an email will be sent to your specified email address to inform you that you have registered on our website.
 
+#### Registration Confirmation Email
+After registering, you will receive a confirmation email that looks like this:
+![Registration Confirmation Email]([https://github.com/K-Mahesh-Yadav/Virtual-Visit-to_Indian-Pilgrims/assets/your-email-screenshot-url](https://github.com/K-Mahesh-Yadav/Virtual-Visit-to_Indian-Pilgrims/assets/130558591/d1bc93dc-1719-4d5e-aaba-93e13de97757))
+
 ### Login Page
 ![Login Page](https://github.com/K-Mahesh-Yadav/Virtual-Visit-to_Indian-Pilgrims/assets/130558591/53d45bb5-0711-4655-8f9e-52329daa96e7)
 

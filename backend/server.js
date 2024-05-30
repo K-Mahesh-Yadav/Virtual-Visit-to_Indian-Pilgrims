@@ -30,15 +30,12 @@ app.post("/postregister", async (req, res) => {
   const transporter = nodemailer.createTransport({
     service: "gmail",
     auth: {
-      // user: "21bd1a0571cse@gmail.com",
-      // pass: "dqnsxgrxscfgqsfk",
       user: "assignmentsproject9@gmail.com",
       pass: "mtbikanioizdiavh",
     },
   });
 
   const mailoption = {
-    // from: "21bd1a0571cse@gmail.com"
     form: "assignmentsproject9@gmail.com",
     to: email,
     subject: "Piligrims Virtual Visit",
